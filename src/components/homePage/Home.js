@@ -33,7 +33,7 @@ const Home = ({countData}) => {
                   Raj
                 </motion.h1>
                 <motion.h2 variants={titleAnim} className="mb-4">
-                  <span className="chonburi-font green-text">Implementation Engineer At</span>{" "}
+                  <span className="chonburi-font green-text">Solutions Engineer At</span>{" "}
                   WebEngage
                 </motion.h2>
               </motion.div>

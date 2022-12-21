@@ -30,7 +30,7 @@ const About = () => {
           <Col className="p-0 text-center" md={5}>
             <Img
               placeholder="/images/skills/lod.jpeg"
-              src="https://media-exp1.licdn.com/dms/image/C4D03AQH-lL18D1D4CQ/profile-displayphoto-shrink_800_800/0/1628605824183?e=1645660800&v=beta&t=FXEKL2VySolbFRm0l9BoMnBdUqFm-s02Cq_9YfbU4Yo"
+              src="/images/avatar.jpg"
               error="/images/skills/error.png"
               alt="React Cool Img"
               onClick={methodDoesNotExist}
