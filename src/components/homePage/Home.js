@@ -25,7 +25,7 @@ const Home = ({countData}) => {
             <Col md={8} xs={12}>
               <motion.div className="intro-section">
                 <motion.h5 variants={titleAnim} className="mb-5">
-                <h6 style={{color:"white"}}>{" Page Count "}<RemoveRedEyeIcon/>{" "}{countData}</h6>
+                {/* <h6 style={{color:"white"}}>{" Page Count "}<RemoveRedEyeIcon/>{" "}{countData}</h6> */}
                 <TransformText  /> 
                 </motion.h5>
                 <motion.h1 variants={titleAnim} className="mb-4">
