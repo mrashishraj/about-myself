@@ -19,7 +19,6 @@ class App extends Component {
       status:false,
       isLoading:true
     }
-
   }
   componentDidMount(){
   this.setState({isLoading:false})  
